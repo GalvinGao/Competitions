@@ -11,7 +11,7 @@ class Boss:
     """
 
     def __init__(self):
-        self.attack = 75000
+        self.attack = 25000
         self.defend = 75000
         self.health = 100000
 
